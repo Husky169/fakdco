@@ -725,19 +725,7 @@ const App = ({ ffmpegRef, isServer }) => {
 					>
 						ItsPi3141
 					</Link>
-					<br />
-					This project is open-source! View{" "}
-					<Link
-						href={
-							"https://github.com/ItsPi3141/discord-fake-avatar-decorations"
-						}
-						className="hover:text-gray-200 underline"
-						target="_blank"
-					>
-						source code
-					</Link>{" "}
-					on GitHub.
-					<br />
+
 					This site is NOT affiliated with Discord Inc. in any way. All images
 					and assets belong to Discord Inc.
 					<br />
