@@ -719,11 +719,11 @@ const App = ({ ffmpegRef, isServer }) => {
 				<p className="mb-4 text-center text-gray-400 text-sm">
 					Website made by{" "}
 					<Link
-						href={"https://github.com/ItsPi3141"}
+						href={"https://discord.gg/aR2uMVvvD7"}
 						className="hover:text-gray-200 underline"
 						target="_blank"
 					>
-						ItsPi3141
+						Droxzy aka Husky
 					</Link>
 
 					<br />
