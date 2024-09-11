@@ -723,7 +723,7 @@ const App = ({ ffmpegRef, isServer }) => {
 						className="hover:text-gray-200 underline"
 						target="_blank"
 					>
-						Droxzy aka Husky
+						Nero Service
 					</Link>
 
 					<br />
