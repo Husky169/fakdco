@@ -635,7 +635,7 @@ const App = ({ ffmpegRef, isServer }) => {
 								className="flex justify-center items-center gap-1 bg-white/10 hover:bg-white/20 mt-3 py-1.5 rounded-[3px] transition shiny-button"
 								onClick={() => {
 									window.open(
-										"https://github.com/ItsPi3141/discord-fake-avatar-decorations",
+										"https://discord.gg/aR2uMVvvD7",
 									);
 								}}
 							>
@@ -648,7 +648,7 @@ const App = ({ ffmpegRef, isServer }) => {
 								>
 									<path d="M10.788 3.103c.495-1.004 1.926-1.004 2.421 0l2.358 4.777 5.273.766c1.107.161 1.549 1.522.748 2.303l-3.816 3.72.901 5.25c.19 1.103-.968 1.944-1.959 1.424l-4.716-2.48-4.715 2.48c-.99.52-2.148-.32-1.96-1.424l.901-5.25-3.815-3.72c-.801-.78-.359-2.142.748-2.303L8.43 7.88l2.358-4.777Z" />
 								</svg>
-								Star on GitHub
+								Discord Server
 							</button>
 							<button
 								type="button"
@@ -697,7 +697,7 @@ const App = ({ ffmpegRef, isServer }) => {
 								className="flex justify-center items-center gap-1 bg-white/10 hover:bg-white/20 mt-3 py-1.5 rounded-[3px] transition"
 								onClick={() => {
 									window.open(
-										"https://github.com/ItsPi3141/discord-fake-avatar-decorations/issues/new",
+										"",
 									);
 								}}
 							>
